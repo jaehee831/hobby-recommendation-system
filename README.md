@@ -37,7 +37,7 @@ This project demonstrates the use of classes, inheritance, polymorphism, excepti
 
 ## UML Diagram 
 
-![image-20240513224905684](../images/ReadMe/1-1715963438741-2.png)
+![image-20240513224905684](./1.png)
 
 
 
